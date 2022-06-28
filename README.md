@@ -5,4 +5,4 @@
 - strogonoff
 - bolo
 - carne
-- 
+- Delicia de Abacaxi
